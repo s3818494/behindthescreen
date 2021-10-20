@@ -209,7 +209,7 @@
             </div>
 
             <div class="hidden2">
-                <div class="typing2"> Respect and emphathize behind the screen. </div>
+                <div class="typing2"> Respect and empathize behind the screen. </div>
             </div>
 
             <div class="hidden3">
@@ -386,7 +386,7 @@
                     <div class="data-list1">
 
                         <div class="data-content1">
-                            About 37% of young people between the ages of 12 and 17 have been bullied online. 30% have had it happen more than once.
+                            About 37% of young people between the ages of 12 and 17 have been bullied online. 30% have been more than once.
                         </div>
 
                         <div class="data-content2">
